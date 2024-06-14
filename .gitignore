@@ -1,0 +1,16 @@
+build
+managed_components
+*/docs/*
+
+
+
+# Components
+components/*
+!components/*/
+!components/*/CMakeLists.txt
+
+
+components/*/*
+components/*/*/
+
+!components/*/CMakeLists.txt
